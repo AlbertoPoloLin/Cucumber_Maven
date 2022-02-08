@@ -11,6 +11,7 @@
     <modules>
         <module>Junit4</module>
         <module>Junit5</module>
+        <module>Junit5Seljup</module>
     </modules>
 
     <properties>
