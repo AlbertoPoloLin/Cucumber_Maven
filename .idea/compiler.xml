@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Cucumber_Maven" />
+        <module name="Junit4" />
+        <module name="Junit5" />
       </profile>
     </annotationProcessing>
   </component>
